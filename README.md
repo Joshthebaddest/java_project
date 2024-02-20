@@ -37,4 +37,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For any inquiries or support, please contact projectmaintainer@example.com.
+For any inquiries or support, please contact gabrielmarvelous1@gmail.com.
