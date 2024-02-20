@@ -11,13 +11,10 @@ Usage
 Building the Docker Image
 To build the Docker image for the Java project, navigate to the project directory containing the Dockerfile and run the following command:
 
-Copy code
 docker build -t java-project .
 Running the Docker Container
 Once the Docker image is built, you can run the Docker container using the following command:
 
-arduino
-Copy code
 docker run -it java-project
 This command starts the Docker container and launches the Java project in interactive mode. You can then use the command-line interface to input numbers and perform mathematical calculations.
 
